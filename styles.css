@@ -1,0 +1,30 @@
+body,
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.main-section {
+    width: 60%;
+    margin: 0 auto;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    /* height: 100vw; */
+}
+
+.form-text {
+    margin: 10px 0;
+    color: white;
+    display: block;
+    font-size: 1.2rem;
+}
+
+#button {
+    margin: 10px 0;
+}
+
+form {
+    margin: 20px auto;
+    width: 80%;
+}
